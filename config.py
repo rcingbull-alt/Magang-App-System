@@ -3,7 +3,7 @@
 # =========================
 
 # ID Spreadsheet Google Sheets
-SPREADSHEET_ID = "1vfDsjo4QxFVasFWc9EhcSmLGRkwy9xu572nGGGGR1SE"
+SPREADSHEET_ID = "1ssHGvgOx7YjvmpBZoO55mSbPxz2-CbmzmtxTqYzv034"
 
 # Nama Sheet
 SHEET_AKUN = "akun"
